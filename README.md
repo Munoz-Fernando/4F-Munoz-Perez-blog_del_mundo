@@ -18,4 +18,4 @@ PAE 1
             , ya que posee diversos géneros para todo el público en general, los mayores consumidores son adolescentes en el mundo entre 13 y 18 años, tanto en Japón como
             en el resto del mundo, algunos para toda la familia, niños, peleas, romance, aventura y para adultos como el yaoi, ecchi y h3ntai.
         </p>
-    </body></html>
+    </body></html > Pérez González
